@@ -9,7 +9,7 @@ public class Division extends Thread {
 
     public void run() {
         if (b != 0) {
-            System.out.println("The result of the addition operation on " + a + " and " + b + " is " + (a / b));
+            System.out.println("The result of the division operation on " + a + " and " + b + " is " + (a / b));
         } else {
             System.out.println("Cannot divide by zero");
         }
