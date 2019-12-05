@@ -1,2 +1,2 @@
-public class Substraction {
+public class Substraction extends Thread{
 }

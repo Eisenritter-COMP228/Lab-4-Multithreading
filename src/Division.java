@@ -1,2 +1,2 @@
-public class Division {
+public class Division extends Thread {
 }
